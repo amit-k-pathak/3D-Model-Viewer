@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPF3D File Viewer", "WPF3D File Viewer.csproj", "{AB6A4302-6B39-4606-874C-53CE263BB2A2}"
+	ProjectSection(ProjectDependencies) = postProject
+		{3F3B4548-A9DB-4874-86F7-E7C4FEC8A351} = {3F3B4548-A9DB-4874-86F7-E7C4FEC8A351}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelixToolkit.Wpf", "..\packages\helix-toolkit-master\Source\HelixToolkit.Wpf\HelixToolkit.Wpf.csproj", "{3F3B4548-A9DB-4874-86F7-E7C4FEC8A351}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB6A4302-6B39-4606-874C-53CE263BB2A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB6A4302-6B39-4606-874C-53CE263BB2A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB6A4302-6B39-4606-874C-53CE263BB2A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB6A4302-6B39-4606-874C-53CE263BB2A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F3B4548-A9DB-4874-86F7-E7C4FEC8A351}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F3B4548-A9DB-4874-86F7-E7C4FEC8A351}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F3B4548-A9DB-4874-86F7-E7C4FEC8A351}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F3B4548-A9DB-4874-86F7-E7C4FEC8A351}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(Performance) = preSolution
+		HasPerformanceSessions = true
+	EndGlobalSection
+EndGlobal

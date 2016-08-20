@@ -1,0 +1,61 @@
+C:\Users\amitp\Downloads\Compressed\helix-toolkit-master\helix-toolkit-master\Source\Examples\WPF\ModelViewer\bin\Debug\ModelViewer.exe.config
+C:\Users\amitp\Downloads\Compressed\helix-toolkit-master\helix-toolkit-master\Source\Examples\WPF\ModelViewer\bin\Debug\Models\Ferarri40.3ds
+C:\Users\amitp\Downloads\Compressed\helix-toolkit-master\helix-toolkit-master\Source\Examples\WPF\ModelViewer\bin\Debug\Models\LeonardoVehicle.3ds
+C:\Users\amitp\Downloads\Compressed\helix-toolkit-master\helix-toolkit-master\Source\Examples\WPF\ModelViewer\bin\Debug\Models\Moose.3ds
+C:\Users\amitp\Downloads\Compressed\helix-toolkit-master\helix-toolkit-master\Source\Examples\WPF\ModelViewer\bin\Debug\Models\tour.obj
+C:\Users\amitp\Downloads\Compressed\helix-toolkit-master\helix-toolkit-master\Source\Examples\WPF\ModelViewer\bin\Debug\ModelViewer.exe
+C:\Users\amitp\Downloads\Compressed\helix-toolkit-master\helix-toolkit-master\Source\Examples\WPF\ModelViewer\bin\Debug\ModelViewer.pdb
+C:\Users\amitp\Downloads\Compressed\helix-toolkit-master\helix-toolkit-master\Source\Examples\WPF\ModelViewer\bin\Debug\HelixToolkit.Wpf.dll
+C:\Users\amitp\Downloads\Compressed\helix-toolkit-master\helix-toolkit-master\Source\Examples\WPF\ModelViewer\bin\Debug\HelixToolkit.Wpf.pdb
+C:\Users\amitp\Downloads\Compressed\helix-toolkit-master\helix-toolkit-master\Source\Examples\WPF\ModelViewer\obj\Debug\Window1.g.cs
+C:\Users\amitp\Downloads\Compressed\helix-toolkit-master\helix-toolkit-master\Source\Examples\WPF\ModelViewer\obj\Debug\App.g.cs
+C:\Users\amitp\Downloads\Compressed\helix-toolkit-master\helix-toolkit-master\Source\Examples\WPF\ModelViewer\obj\Debug\ModelViewer_Content.g.cs
+C:\Users\amitp\Downloads\Compressed\helix-toolkit-master\helix-toolkit-master\Source\Examples\WPF\ModelViewer\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\amitp\Downloads\Compressed\helix-toolkit-master\helix-toolkit-master\Source\Examples\WPF\ModelViewer\obj\Debug\ModelViewer_MarkupCompile.cache
+C:\Users\amitp\Downloads\Compressed\helix-toolkit-master\helix-toolkit-master\Source\Examples\WPF\ModelViewer\obj\Debug\ModelViewer_MarkupCompile.lref
+C:\Users\amitp\Downloads\Compressed\helix-toolkit-master\helix-toolkit-master\Source\Examples\WPF\ModelViewer\obj\Debug\Window1.baml
+C:\Users\amitp\Downloads\Compressed\helix-toolkit-master\helix-toolkit-master\Source\Examples\WPF\ModelViewer\obj\Debug\ModelViewer.g.resources
+C:\Users\amitp\Downloads\Compressed\helix-toolkit-master\helix-toolkit-master\Source\Examples\WPF\ModelViewer\obj\Debug\ModelViewer.Properties.Resources.resources
+C:\Users\amitp\Downloads\Compressed\helix-toolkit-master\helix-toolkit-master\Source\Examples\WPF\ModelViewer\obj\Debug\ModelViewer.csproj.GenerateResource.Cache
+C:\Users\amitp\Downloads\Compressed\helix-toolkit-master\helix-toolkit-master\Source\Examples\WPF\ModelViewer\obj\Debug\ModelViewer.exe
+C:\Users\amitp\Downloads\Compressed\helix-toolkit-master\helix-toolkit-master\Source\Examples\WPF\ModelViewer\obj\Debug\ModelViewer.pdb
+E:\helix-toolkit-master\helix-toolkit-master\Source\Examples\WPF\ModelViewer\obj\Debug\ModelViewer.csprojResolveAssemblyReference.cache
+E:\helix-toolkit-master\helix-toolkit-master\Source\Examples\WPF\ModelViewer\obj\Debug\Window1.g.cs
+E:\helix-toolkit-master\helix-toolkit-master\Source\Examples\WPF\ModelViewer\obj\Debug\App.g.cs
+E:\helix-toolkit-master\helix-toolkit-master\Source\Examples\WPF\ModelViewer\obj\Debug\ModelViewer_Content.g.cs
+E:\helix-toolkit-master\helix-toolkit-master\Source\Examples\WPF\ModelViewer\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\helix-toolkit-master\helix-toolkit-master\Source\Examples\WPF\ModelViewer\obj\Debug\ModelViewer_MarkupCompile.cache
+E:\helix-toolkit-master\helix-toolkit-master\Source\Examples\WPF\ModelViewer\obj\Debug\ModelViewer_MarkupCompile.lref
+E:\helix-toolkit-master\helix-toolkit-master\Source\Examples\WPF\ModelViewer\obj\Debug\ModelViewer.exe
+E:\helix-toolkit-master\helix-toolkit-master\Source\Examples\WPF\ModelViewer\obj\Debug\ModelViewer.pdb
+E:\helix-toolkit-master\helix-toolkit-master\Source\Examples\WPF\ModelViewer\bin\Debug\Models\Ferarri40.3ds
+E:\helix-toolkit-master\helix-toolkit-master\Source\Examples\WPF\ModelViewer\bin\Debug\Models\LeonardoVehicle.3ds
+E:\helix-toolkit-master\helix-toolkit-master\Source\Examples\WPF\ModelViewer\bin\Debug\Models\Moose.3ds
+E:\helix-toolkit-master\helix-toolkit-master\Source\Examples\WPF\ModelViewer\bin\Debug\Models\tour.obj
+E:\helix-toolkit-master\helix-toolkit-master\Source\Examples\WPF\ModelViewer\bin\Debug\ModelViewer.exe.config
+E:\helix-toolkit-master\helix-toolkit-master\Source\Examples\WPF\ModelViewer\bin\Debug\ModelViewer.exe
+E:\helix-toolkit-master\helix-toolkit-master\Source\Examples\WPF\ModelViewer\bin\Debug\ModelViewer.pdb
+E:\helix-toolkit-master\helix-toolkit-master\Source\Examples\WPF\ModelViewer\bin\Debug\3DTools.dll
+E:\helix-toolkit-master\helix-toolkit-master\Source\Examples\WPF\ModelViewer\bin\Debug\HelixToolkit.Wpf.dll
+E:\helix-toolkit-master\helix-toolkit-master\Source\Examples\WPF\ModelViewer\bin\Debug\HelixToolkit.Wpf.pdb
+E:\helix-toolkit-master\helix-toolkit-master\Source\Examples\WPF\ModelViewer\bin\Debug\3DTools.pdb
+E:\helix-toolkit-master\helix-toolkit-master\Source\Examples\WPF\ModelViewer\obj\Debug\Window1.baml
+E:\helix-toolkit-master\helix-toolkit-master\Source\Examples\WPF\ModelViewer\obj\Debug\ModelViewer.g.resources
+E:\helix-toolkit-master\helix-toolkit-master\Source\Examples\WPF\ModelViewer\obj\Debug\ModelViewer.Properties.Resources.resources
+E:\helix-toolkit-master\helix-toolkit-master\Source\Examples\WPF\ModelViewer\obj\Debug\ModelViewer.csproj.GenerateResource.Cache
+D:\3D Viewer Projects\Using\WPF3D\3D File Viewer WPF3D\bin\Debug\ModelViewer.exe.config
+D:\3D Viewer Projects\Using\WPF3D\3D File Viewer WPF3D\obj\Debug\ModelViewer.exe
+D:\3D Viewer Projects\Using\WPF3D\3D File Viewer WPF3D\obj\Debug\ModelViewer.pdb
+D:\3D Viewer Projects\Using\WPF3D\3D File Viewer WPF3D\obj\Debug\App.g.cs
+D:\3D Viewer Projects\Using\WPF3D\3D File Viewer WPF3D\obj\Debug\ModelViewer_MarkupCompile.cache
+D:\3D Viewer Projects\Using\WPF3D\3D File Viewer WPF3D\obj\Debug\Window1.g.cs
+D:\3D Viewer Projects\Using\WPF3D\3D File Viewer WPF3D\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\3D Viewer Projects\Using\WPF3D\3D File Viewer WPF3D\obj\Debug\ModelViewer_MarkupCompile.lref
+D:\3D Viewer Projects\Using\WPF3D\3D File Viewer WPF3D\bin\Debug\3DTools.dll
+D:\3D Viewer Projects\Using\WPF3D\3D File Viewer WPF3D\bin\Debug\3DTools.pdb
+D:\3D Viewer Projects\Using\WPF3D\3D File Viewer WPF3D\obj\Debug\Window1.baml
+D:\3D Viewer Projects\Using\WPF3D\3D File Viewer WPF3D\obj\Debug\ModelViewer.g.resources
+D:\3D Viewer Projects\Using\WPF3D\3D File Viewer WPF3D\obj\Debug\ModelViewer.Properties.Resources.resources
+D:\3D Viewer Projects\Using\WPF3D\3D File Viewer WPF3D\obj\Debug\ModelViewer.csproj.GenerateResource.Cache
+D:\3D Viewer Projects\Using\WPF3D\3D File Viewer WPF3D\bin\Debug\ModelViewer.exe
+D:\3D Viewer Projects\Using\WPF3D\3D File Viewer WPF3D\bin\Debug\ModelViewer.pdb

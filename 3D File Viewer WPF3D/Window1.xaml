@@ -1,0 +1,94 @@
+﻿<Window x:Class="WPF3DFileViewer.Window1"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:helix="clr-namespace:HelixToolkit.Wpf;assembly=HelixToolkit.Wpf"
+           xmlns:self="clr-namespace:WPF3DFileViewer"
+        xmlns:modelViewer="clr-namespace:WPF3DFileViewer" Title="{Binding ApplicationTitle}" Height="480" Width="640" Background="Black">
+   
+    <!--<Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"></RowDefinition>
+        </Grid.RowDefinitions>
+        
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="200"></ColumnDefinition>
+            <ColumnDefinition Width="500"></ColumnDefinition>
+        </Grid.ColumnDefinitions>-->
+            <DockPanel>
+        <Menu DockPanel.Dock="Top">
+            <MenuItem Header="_File">
+                <MenuItem Header="_Open Object File" Command="{Binding FileOpenCommand}"/>
+                <MenuItem Header="_Save Snapshot" Command="{Binding SaveSnapshotCommand}"/>
+                <MenuItem Header="_Export Markup" Command="{Binding ExportMarkupCommand}"/>
+                <MenuItem Header="_Import Markup" Command="{Binding ImportMarkupCommand}"/>
+                <MenuItem Header="_Spin">
+                    <MenuItem Header="_Start" Command="{Binding SpinStartCommand}"/>
+                    <MenuItem Header="_Stop" Command="{Binding SpinStopCommand}"/>
+                </MenuItem>
+                <MenuItem Header="E_xit" Command="{Binding FileExitCommand}"/>
+            </MenuItem>
+                      
+            <MenuItem Header="_Edit">
+                <MenuItem Header="Mode">
+                    <MenuItem Header="3D Annotation Drawing" Command="{Binding SetRenderModeCommand}"/>
+                    <MenuItem Header="2D Annotation Drawing" Command="{Binding SetAnnotationModeCommand}"/>
+                </MenuItem>
+                <MenuItem Header="Refresh" Command="{Binding RefreshCommand}"/>
+            </MenuItem>
+
+            <MenuItem Header="_View">
+                <MenuItem Header="_Zoom Extents" Command="{Binding ViewZoomExtentsCommand}"/>
+
+                <!--<MenuItem Header="_Render Mode" >
+                    <MenuItem Header="_Solid" Command="{Binding ViewAllCommand}"/>
+                    <MenuItem Header="_Solid Wireframe" Command="{Binding ViewSolidWireframeCommand}"/>
+                    <MenuItem Header="_Wireframe" Command="{Binding ViewWireframeCommand}"/>
+                    <MenuItem Header="_Vertices" Command="{Binding ViewVerticesCommand}"/>
+                </MenuItem>-->
+            </MenuItem>
+            <MenuItem Header="Draw">
+                <MenuItem Header="Annotations" Name="annotMenu">
+                        <!--<MenuItem Header="Arrow" Command="{Binding DrawArrowCommand}"/>
+                        <MenuItem Header="Free Hand Markup" Command="{Binding DrawFreeHandMarkupCommand}"/>
+                        <MenuItem Header="Rectangle" Command="{Binding DrawRectangleCommand}"/>
+                        <MenuItem Header="Sphere" Command="{Binding DrawSphereCommand}"/>
+                        <MenuItem Header="Text" Command="{Binding DrawTextCommand}"/>
+                        <MenuItem Header="3D Comment" Command="{Binding Draw3DCommentCommand}"/>
+                        <MenuItem Header="Cube" Command="{Binding DrawCubeCommand}"/>
+                        <MenuItem Header="NewObj" Command="{Binding DrawNewObjCommand}"/>-->
+                    </MenuItem>
+            </MenuItem>
+        </Menu>
+     
+            <!--<DockPanel DockPanel.Dock="Left" Width="300" >
+            <TreeView Name="modeldetails">
+                <TreeView.ItemTemplate>
+                    <HierarchicalDataTemplate DataType="{x:Type self:MenuItem}" ItemsSource="{Binding Items}">
+                        <TextBlock Text="{Binding Title}" />
+                    </HierarchicalDataTemplate>
+                </TreeView.ItemTemplate>
+            </TreeView>
+        </DockPanel> -->
+
+       <!--<DockPanel DockPanel.Dock="Left" Width="300" >-->
+            <TreeView Name="modeldetails" SelectedItemChanged ="modeldetails_SelectedItemChanged" DockPanel.Dock="Left" Width="300">
+                <TreeView.ItemTemplate>
+                    <HierarchicalDataTemplate DataType="{x:Type self:MarkupView}" ItemsSource="{Binding Views}">
+                        <TextBlock Text="{Binding Name}" />
+                    </HierarchicalDataTemplate>
+                </TreeView.ItemTemplate>
+            </TreeView>
+        <!--</DockPanel>-->
+
+    <Canvas Name="surf" Width="Auto" Height="Auto" Visibility="Visible" Background="White" MouseDown="surf_MouseDown_1" MouseMove="surf_MouseMove_1" MouseLeftButtonDown="surf_MouseLeftButtonDown_1">
+
+            <helix:HelixViewport3D x:Name="view1" Canvas.ZIndex="1"  
+                CameraRotationMode="Trackball" ModelUpDirection="0,1,0" 
+                ShowCameraTarget="True" ShowFrameRate="False" ShowViewCube="False"  ShowCameraInfo="True"
+                Background="Gray" MouseDown="view1_MouseDown_1" MouseDoubleClick="view1_MouseDoubleClick_1"
+                ShowCoordinateSystem="False" Height="{Binding ActualHeight, ElementName=surf}" Width="{Binding ActualWidth, ElementName=surf}">
+            </helix:HelixViewport3D>
+        </Canvas>
+    </DockPanel>
+  <!--</Grid>-->
+</Window>

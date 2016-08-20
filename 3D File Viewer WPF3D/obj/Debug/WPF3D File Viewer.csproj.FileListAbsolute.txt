@@ -1,0 +1,19 @@
+D:\3D Viewer Projects\Using\WPF3D\3D File Viewer WPF3D\bin\Debug\WPF3DFileViewer.exe
+D:\3D Viewer Projects\Using\WPF3D\3D File Viewer WPF3D\bin\Debug\HelixToolkit.Wpf.dll
+D:\3D Viewer Projects\Using\WPF3D\3D File Viewer WPF3D\bin\Debug\WPF3DFileViewer.exe.config
+D:\3D Viewer Projects\Using\WPF3D\3D File Viewer WPF3D\bin\Debug\WPF3DFileViewer.pdb
+D:\3D Viewer Projects\Using\WPF3D\3D File Viewer WPF3D\bin\Debug\3DTools.dll
+D:\3D Viewer Projects\Using\WPF3D\3D File Viewer WPF3D\bin\Debug\3DTools.pdb
+D:\3D Viewer Projects\Using\WPF3D\3D File Viewer WPF3D\bin\Debug\HelixToolkit.Wpf.pdb
+D:\3D Viewer Projects\Using\WPF3D\3D File Viewer WPF3D\obj\Debug\WPF3D File Viewer.csprojResolveAssemblyReference.cache
+D:\3D Viewer Projects\Using\WPF3D\3D File Viewer WPF3D\obj\Debug\Window1.g.cs
+D:\3D Viewer Projects\Using\WPF3D\3D File Viewer WPF3D\obj\Debug\App.g.cs
+D:\3D Viewer Projects\Using\WPF3D\3D File Viewer WPF3D\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\3D Viewer Projects\Using\WPF3D\3D File Viewer WPF3D\obj\Debug\WPF3DFileViewer_MarkupCompile.cache
+D:\3D Viewer Projects\Using\WPF3D\3D File Viewer WPF3D\obj\Debug\WPF3DFileViewer_MarkupCompile.lref
+D:\3D Viewer Projects\Using\WPF3D\3D File Viewer WPF3D\obj\Debug\Window1.baml
+D:\3D Viewer Projects\Using\WPF3D\3D File Viewer WPF3D\obj\Debug\WPF3DFileViewer.g.resources
+D:\3D Viewer Projects\Using\WPF3D\3D File Viewer WPF3D\obj\Debug\WPF3DFileViewer.Properties.Resources.resources
+D:\3D Viewer Projects\Using\WPF3D\3D File Viewer WPF3D\obj\Debug\WPF3D File Viewer.csproj.GenerateResource.Cache
+D:\3D Viewer Projects\Using\WPF3D\3D File Viewer WPF3D\obj\Debug\WPF3DFileViewer.exe
+D:\3D Viewer Projects\Using\WPF3D\3D File Viewer WPF3D\obj\Debug\WPF3DFileViewer.pdb
